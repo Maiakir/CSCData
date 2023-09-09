@@ -1,0 +1,21 @@
+utterance,pos_neg,pos_neg_neu
+I don't understand.,negative,neutral
+Do I have to do this?,positive,neutral
+The text is hard to read.,negative,negative
+The sound is great!,positive, positive
+Can I program it to shut off sooner?,positive,neutral
+I don't know if I like it or not.,negative, neutral
+I like this one better.,positive,positive
+Can I open this now?,positive,neutral
+The scent is terrible!,negative,negative
+It doesn't really have a smell.,postive,neutral
+What does it smell like?,positive,neutral
+The keys keep sticking.,negative,neutral
+The directions are not clear.,negative,negative
+I cannot copy and paste my password.,negative,neutral
+When does it have to be turned in?,positive,neutral
+Do I need to download anything?,positive,neutral
+It's not exactly what I wanted.,negative,neutral
+It's perfect!,positive,positive
+It's horrible!,negative,negative
+Can you be contacted?,positive,neutral
